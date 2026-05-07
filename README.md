@@ -4,7 +4,7 @@
 
   <hr />
 
-  <h2>🚀 Quick Start</h2>
+  <h2> Quick Start</h2>
 
   <h3>1. Prerequisites</h3>
   <ul>
@@ -26,7 +26,7 @@ npm run dev</code></pre>
 
   <hr />
 
-  <h2>🛠 Technical Decisions & Assumptions</h2>
+  <h2>Technical Decisions & Assumptions</h2>
 
   <h3>1. Authentication & Session</h3>
   <ul>
@@ -49,7 +49,7 @@ npm run dev</code></pre>
 
   <hr />
 
-  <h2>🧪 Testing the Requirements</h2>
+  <h2> Testing the Requirements</h2>
   <table width="100%" style="border-collapse: collapse; border: 1px solid #e2e8f0; text-align: left;">
     <thead>
       <tr style="background-color: #f8fafc;">
@@ -84,7 +84,7 @@ npm run dev</code></pre>
 
   <hr />
 
-  <h2>📦 Project Structure</h2>
+  <h2> Project Structure</h2>
   <pre><code>├── client/
 │   ├── src/
 │   │   ├── context/      # Global Auth & User state
@@ -98,7 +98,7 @@ npm run dev</code></pre>
 
   <hr />
 
-  <h2>⚠️ Known Limitations</h2>
+  <h2> Known Limitations</h2>
   <ul>
     <li><b>No Persistence:</b> Data resets on server restart.</li>
     <li><b>Alert-based Errors:</b> Used standard <code>alert()</code> calls for critical API errors to keep UI dependencies minimal.</li>
